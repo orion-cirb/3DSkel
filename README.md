@@ -1,28 +1,22 @@
-# 3DSkel (from Yohan)
+# 3DSkel (developed by Yohan)
 
 * **Developed for:** Camille
 * **Team:** Monnot
 * **Date:** 2018
 * **Software:** Matlab/Fiji
 
-
-
-### Images description
-
-
-
 ### Plugin description
 
-* Detect vascular arborizations on cytodex
-* Compute skeleton
-* Analyze skeleton with Matlab
+* Detect vascular arborizations in Cytodex microcarriers
+* Compute skeleton of the arborization
+* Analyze skeleton
 
 ### Dependencies
 
-* **Fiji**
 * **Matlab**
+* **Fiji**
 
 ### Version history
 
-Version 1 released 2018.
+Version 1 released in 2018.
 
